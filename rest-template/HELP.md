@@ -1,0 +1,1 @@
+while true; do curl -X GET http://localhost:8080/api/books; sleep 0.1; done
